@@ -33,7 +33,7 @@ img {
 
 .hero {
   grid-row: span 2;
-  background-image: url(images/taco.jpg);
+  background-image: url(tacohut/images/taco.jpg);
   background-size: cover;
   padding: 50px;
   display: flex;
